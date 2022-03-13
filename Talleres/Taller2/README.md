@@ -5,11 +5,14 @@
     <p>Creamos estas carpetas en nuestra raiz del proyecto asi:</p>
     <img src="../../Imagenes/CarpetasBisabuelos.png" alt="imagen-carpeta-bisabuelos">
     <img src="../../Imagenes/CarpetasBisnietos.png" alt="imagen-carpeta-bisnietos">
+      <hr>
     <h3>2. Despues movemos las carpetas de abuelos y bisnietos de la siguiente forma:</h3>
     <img src="../../Imagenes/MoverAbuelo.png" alt="imagen-mover-abuelo">
     <img src="../../Imagenes/MoverAbuela.png" alt="imagen-mover-abuela">
     <img src="../../Imagenes/MoverBisnieto.png" alt="imagen-mover-bisnieto">
     <img src="../../Imagenes/MoverBisnieta.png" alt="imagen-mover-bisnieta">
+      <hr>
     <h3>3. Finalmente movemos los archivos de cada una de las carpetas a la carpeta contraria:</h3>
     <p>Es decir movemos el archivo de abuela a la carpeta de abuelo y el archivo de abuelo a la carpeta de abuela y asi con todas las carpetas asi:</p>
     <img src="../../Imagenes/EstructuraTreeCompleta2.png" alt="imagen-estuctura-carpetas">
+      <hr>
