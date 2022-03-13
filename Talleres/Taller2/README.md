@@ -3,8 +3,8 @@
     <hr>
     <h3>1. Iniciamos crando las carpetas (Bisabuelo, Bisabuela, Bisnieto, Bisnieta)</h3>
     <p>Creamos estas carpetas en nuestra raiz del proyecto asi:</p>
-    <img src="../../Imagenes/CarpetaBisabuelos.png" alt="imagen-carpeta-bisabuelos">
-    <img src="../../Imagenes/CarpetaBisnietos.png" alt="imagen-carpeta-bisnietos">
+    <img src="../../Imagenes/CarpetasBisabuelos.png" alt="imagen-carpeta-bisabuelos">
+    <img src="../../Imagenes/CarpetasBisnietos.png" alt="imagen-carpeta-bisnietos">
     <h3>2. Despues movemos las carpetas de abuelos y bisnietos de la siguiente forma:</h3>
     <img src="../../Imagenes/MoverAbuelo.png" alt="imagen-mover-abuelo">
     <img src="../../Imagenes/MoverAbuela.png" alt="imagen-mover-abuela">
